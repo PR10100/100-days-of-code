@@ -25,7 +25,7 @@ I committed! I'm doing this challenge in order to build up some repos and hone i
         <br>INTERNAL LINK (goes to another page on your website)
         <br>EXTERNAL LINK (goes to another page on the web)
   
-  2. See my code here. I included a. through i. (just a new window link) above with the exception of h. (Images).
+  2. See my code <a href="https://github.com/PR10100/WebCodeFromScratch-Transplant-Life/blob/master/transplantlife.html" target="_BLANK">"here"</a>. I included a. through i. (just a new window link) above with the exception of h. (Images).
 
     
 ## My Approach: What I'm doing and how
