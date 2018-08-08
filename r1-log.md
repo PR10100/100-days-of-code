@@ -8,24 +8,24 @@ The log of my #100DaysOfCode challenge. Started on August 7, 2018.
 I committed! I'm doing this challenge in order to build up some repos and hone in more closely on my plethora of dev courses (see detailed list below in the "My Approach..." section) along with revisiting the contents of my Front End Developer, Website Design & WordPress Developer bootcamp I previously studied.
 
 ## Progress Notes - Front End Dev Day
-1. I did a basic revist of some simple html
-    a. Attributes: a href, src, alt, target="_BLANK"
-    b. Regular vs. Self-closing tags
-    c. Meta tags: doctype html, meta charset=”utf-8”, title, link, html, head, body,script (When I showcase Javascript I'll be adding script to my meta tags but not right yet.)
-    d. Structural tags: div (I didn't include these for today but more would be: nav, section, header, footer, article, aside)
-    e. Text tags: p, h1 through h6, strong, em, br
-    f. Content tags: img, ul, ol, li, a
-    g. HTML Entities: AKA special characters etc. I utilized the ampersand symbol for today. 
-        https://www.w3schools.com/html/html_entities.asp
-        https://dev.w3.org/html5/html-author/charref 
-    h. Images
-    i. Links: 
-        BASIC LINK (opens in same window)
-        NEW WINDOW LINK using the target attribute
-        INTERNAL LINK (goes to another page on your website)
-        EXTERNAL LINK (goes to another page on the web)
+1. I did a basic revist of some simple html:
+    <br>a. Attributes: a href, src, alt, target="_BLANK"
+    <br>b. Regular vs. Self-closing tags
+    <br>c. Meta tags: doctype html, meta charset=”utf-8”, title, link, html, head, body,script (When I showcase Javascript I'll be adding script to my meta tags but not right yet.)
+    <br>d. Structural tags: div (I didn't include these for today but more would be: nav, section, header, footer, article, aside)
+    <br>e. Text tags: p, h1 through h6, strong, em, br
+    <br>f. Content tags: img, ul, ol, li, a
+    <br>g. HTML Entities: AKA special characters etc. I utilized the ampersand symbol for today. 
+       <br>https://www.w3schools.com/html/html_entities.asp
+       <br> https://dev.w3.org/html5/html-author/charref 
+    <br>h. Images
+    <br>i. Links: 
+        <br>BASIC LINK (opens in same window)
+        <br>NEW WINDOW LINK using the target attribute
+        <br>INTERNAL LINK (goes to another page on your website)
+        <br>EXTERNAL LINK (goes to another page on the web)
   
-  2. See my code here. I included a. through i. above with the exception of h. (Images).
+  2. See my code here. I included a. through i. (just a new window link) above with the exception of h. (Images).
 
     
 ## My Approach: What I'm doing and how
