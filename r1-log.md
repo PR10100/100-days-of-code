@@ -10,20 +10,20 @@ I committed! I'm doing this challenge in order to build up some repos and hone i
 ## Progress Notes - Front End Dev Day
 1. I did a basic revist of some simple html
     a. Attributes: a href, src, alt, target="_BLANK"
-    b. Regular vs. Self-closing tags; <p> ... </p> vs. <img />
-    c. Meta tags: <!doctype html>, <meta charset=”utf-8”>, <title> ... </title>, <link />, <html> ... </html>, <head> ... </head>, <body> ... </body>, <script> ... </script> (When I showcase Javascript I'll be adding <script> ... </script> to my meta tags but not right yet.)
-    d. Structural tags: <div> ... </div> (I didn't include these for today but more would be: <nav> ... </nav>, <section> ... </section>, <header> ... </header>, <footer> ... </footer>, <article> ... </article>, <aside> ... </aside>)
-    e. Text tags: <p>...</p>, <h1>...</h1> (through <h6>),<strong>...</strong> INLINE, <em>...</em> INLINE, <em>...</em> INLINE
-    f. Content tags: <img />, <ul> ... </ul>, <ol> ... </ol>, <li>...</li>, <a> ...</a>
+    b. Regular vs. Self-closing tags
+    c. Meta tags: doctype html, meta charset=”utf-8”, title, link, html, head, body,script (When I showcase Javascript I'll be adding script to my meta tags but not right yet.)
+    d. Structural tags: div (I didn't include these for today but more would be: nav, section, header, footer, article, aside)
+    e. Text tags: p, h1 through h6, strong, em, br
+    f. Content tags: img, ul, ol, li, a
     g. HTML Entities: AKA special characters etc. I utilized the ampersand symbol for today. 
         https://www.w3schools.com/html/html_entities.asp
         https://dev.w3.org/html5/html-author/charref 
-    h. Images: <img src=" *put your link here and these are saved to the server, so you are telling the server which of your image source files it should grab when it displays this image on the page* " alt=" *what you want to name it*" />
+    h. Images
     i. Links: 
-        BASIC LINK (opens in same window): <a href=”http://google.com”>Google Knows Everything (almost)!</a>
-        NEW WINDOW LINK: <a href=”http://google.com”> target="_BLANK">Check out this link!</a>
-        INTERNAL LINK (goes to another page on your website): <a href="about.html">About Me</a>
-        EXTERNAL LINK (goes to another page on the web): <a href="http://google.com">Google Knows Everything (almost)!</a>
+        BASIC LINK (opens in same window)
+        NEW WINDOW LINK using the target attribute
+        INTERNAL LINK (goes to another page on your website)
+        EXTERNAL LINK (goes to another page on the web)
   
   2. See my code here. I included a. through i. above with the exception of h. (Images).
 
